@@ -1,0 +1,3 @@
+import{P as e}from"./types.f954e03b.js";const n="Home",a="Erfan",o="Jahedi",i=`I’m a computer science student passionate about building creative solutions, from full-stack web apps to machine learning projects. I love exploring new technologies and recently started diving deeper into AI. I’m always eager to learn, collaborate, and turn ideas into reality!
+
+You can check out more or contact me through the links below.`,l=[{platform:e.GitHub,link:"https://github.com/erfnjhdi"},{platform:e.Linkedin,link:"https://www.linkedin.com/in/erfan-jahedi-b46568295"},{platform:e.Email,link:"erfanjahedi81@gmail.com"}];export{l as a,i as d,o as l,a as n,n as t};
