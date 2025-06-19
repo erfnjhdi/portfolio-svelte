@@ -9,3 +9,5 @@ export function load({ params }: { params: Record<string, string> }) {
 		return { skill };
 	}
 }
+
+export const prerender = false;
